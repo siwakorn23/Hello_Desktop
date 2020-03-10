@@ -12,13 +12,11 @@
   <li><a href="musings.html">Musings</a>
   <li><a href="town.html">My town</a>
   <li><a href="links.html">Links</a>
-  <li><a1 href="index.html">Home page</a1>
-  <li><a1 href="musings.html">Musings</a1>
 </ul>
 
 <!-- Main content -->
 <h1>My first styled page</h1>
-<h2>My first styled page</h2>
+
 <p>Welcome to my styled page!
 
 <p>It lacks images, but at least it has style.
